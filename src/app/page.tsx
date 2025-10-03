@@ -27,6 +27,7 @@ export default function Home() {
     { id: 'energy-shields', label: 'Energy Shields', icon: '⚡', category: 'Energy Shields' },
     { id: 'grenades', label: 'Grenades', icon: '💣', category: 'Grenades' },
     { id: 'class-mods', label: 'Class Mods', icon: '🎭', category: 'Class Mods' },
+    { id: 'enhancements', label: 'Enhancements', icon: '⚙️', category: 'Enhancements' },
     { id: 'repkits', label: 'Repkits', icon: '🔧', category: 'Repkits' },
     { id: 'all', label: 'All Items', icon: '📋' },
   ];
